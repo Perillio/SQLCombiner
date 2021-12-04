@@ -1,0 +1,13 @@
+C:\Users\Perillio\source\repos\SQLCombiner\SQLCombiner\bin\Debug\netcoreapp3.1\SQLCombiner.exe
+C:\Users\Perillio\source\repos\SQLCombiner\SQLCombiner\bin\Debug\netcoreapp3.1\SQLCombiner.deps.json
+C:\Users\Perillio\source\repos\SQLCombiner\SQLCombiner\bin\Debug\netcoreapp3.1\SQLCombiner.runtimeconfig.json
+C:\Users\Perillio\source\repos\SQLCombiner\SQLCombiner\bin\Debug\netcoreapp3.1\SQLCombiner.runtimeconfig.dev.json
+C:\Users\Perillio\source\repos\SQLCombiner\SQLCombiner\bin\Debug\netcoreapp3.1\SQLCombiner.dll
+C:\Users\Perillio\source\repos\SQLCombiner\SQLCombiner\bin\Debug\netcoreapp3.1\SQLCombiner.pdb
+C:\Users\Perillio\source\repos\SQLCombiner\SQLCombiner\obj\Debug\netcoreapp3.1\SQLCombiner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Perillio\source\repos\SQLCombiner\SQLCombiner\obj\Debug\netcoreapp3.1\SQLCombiner.AssemblyInfoInputs.cache
+C:\Users\Perillio\source\repos\SQLCombiner\SQLCombiner\obj\Debug\netcoreapp3.1\SQLCombiner.AssemblyInfo.cs
+C:\Users\Perillio\source\repos\SQLCombiner\SQLCombiner\obj\Debug\netcoreapp3.1\SQLCombiner.csproj.CoreCompileInputs.cache
+C:\Users\Perillio\source\repos\SQLCombiner\SQLCombiner\obj\Debug\netcoreapp3.1\SQLCombiner.dll
+C:\Users\Perillio\source\repos\SQLCombiner\SQLCombiner\obj\Debug\netcoreapp3.1\SQLCombiner.pdb
+C:\Users\Perillio\source\repos\SQLCombiner\SQLCombiner\obj\Debug\netcoreapp3.1\SQLCombiner.genruntimeconfig.cache
